@@ -303,6 +303,7 @@ int daemon(int, int);  /* defined in libresolv of all places */
 #define WELCOME_MESSAGE \
     ast_verbose("Asterisk %s, " COPYRIGHT_TAG "\n" \
                 "Created by Mark Spencer <markster@digium.com>\n" \
+				"Instalado en Rocky Linux para el Curso Asterisk Avanzado de Aula Util 2024!\n" \
                 "Asterisk comes with ABSOLUTELY NO WARRANTY; type 'core show warranty' for details.\n" \
                 "This is free software, with components licensed under the GNU General Public\n" \
                 "License version 2 and other licenses; you are welcome to redistribute it under\n" \
